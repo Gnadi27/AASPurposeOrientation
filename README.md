@@ -28,7 +28,7 @@ The model was implemented in the **AASX Package Explorer V3.0** using version **
 
 ### Figure 3.4
 
-![Figure 3.4 from the semester thesis](Figure3.4.png)
+![Figure 3.4 from the semester thesis](readme_imgs/Figure3.4.png)
 
 *Figure 3.4: UML Diagram of the proposed standardized Submodel depicting its elements
 and referenced existing Submodels.*
