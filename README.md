@@ -26,6 +26,13 @@ In simplified terms, this model is intended to support the sharing of Digital Tw
 
 The model was implemented in the **AASX Package Explorer V3.0** using version **v2024-06-10** and is intended as a research-oriented prototype and template for further work.
 
+### Figure 3.4
+
+![Figure 3.4 from the semester thesis](Figure3.4.png)
+
+*Figure 3.4: UML Diagram of the proposed standardized Submodel depicting its elements
+and referenced existing Submodels.*
+
 ## Contents
 
 - `Semester Thesis.pdf` – written thesis document
